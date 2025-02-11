@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:54842/posts/</loc>
+    <lastmod>2025-02-11T13:13:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54842/</loc>
+    <lastmod>2025-02-11T13:13:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54842/posts/the-parka-pack/</loc>
+    <lastmod>2025-02-11T13:13:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54842/categories/</loc>
+  </url><url>
+    <loc>http://localhost:54842/search/</loc>
+  </url><url>
+    <loc>http://localhost:54842/series/</loc>
+  </url><url>
+    <loc>http://localhost:54842/tags/</loc>
+  </url>
+</urlset>
